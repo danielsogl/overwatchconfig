@@ -1,5 +1,7 @@
 {
     "config":{
-        "apiURL": "https://ow.lolstats.org/"
+        "apiURL": "https://api.lootbox.eu/",
+        "News Message": "Release 2.1 is online for iOS and Android! Download it now!",
+        "appVersion": "2.1.0"
     }
 }
