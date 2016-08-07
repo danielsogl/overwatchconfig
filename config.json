@@ -1,7 +1,7 @@
 {
     "config":{
         "apiURL": "https://api.lootbox.eu/",
-        "appVersionIOS": "2.0.0",
-        "appVersionAndroid": "2.0.2"
+        "appVersionIOS": 200,
+        "appVersionAndroid": 202
     }
 }
