@@ -2,6 +2,8 @@
     "config":{
         "apiURL": "https://api.lootbox.eu/",
         "appVersionIOS": 200,
-        "appVersionAndroid": 202
+        "appVersionAndroid": 202,
+        "autor": "Daniel Sogl",
+        "apiVersionLootbox": "1.0.0"
     }
 }
