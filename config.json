@@ -1,6 +1,6 @@
 {
     "config":{
-        "apiURL": "https://ow.lolstats.org/",
+        "apiURL": "https://api.lootbox.eu/",
         "appVersionIOS": 211,
         "appVersionAndroid": 221,
         "autor": "Daniel Sogl",
